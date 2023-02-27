@@ -14,15 +14,3 @@ Having trouble accessing the notes on iOS?
 
 
 
-Having issues?
-
-  Check out the `support` link in the notes, or email me at nick@diveintodocker.com.
-
-
-
-Thanks again!
- 
-  Nick Janetakis (author of Dive Into Docker)
-
-    https://diveintodocker.com
-    https://nickjanetakis.com
